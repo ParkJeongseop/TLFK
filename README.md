@@ -1,10 +1,10 @@
-## Traffic Light
-두리톤(Duriton)
+# Traffic Light
+2019 DOORITHONE Hackathone : 보행자 횡단보도 안전 애플리케이션
 
-# 팀원
+## 팀원
 구형모, 김신건, 김은수, 박정섭, 정수환
 
-
+## 슬라이드
 ![슬라이드이미지](./Docs/IMAGE/슬라이드1.PNG)
 ![슬라이드이미지](./Docs/IMAGE/슬라이드2.PNG)
 ![슬라이드이미지](./Docs/IMAGE/슬라이드3.PNG)
@@ -26,6 +26,6 @@
 ![슬라이드이미지](./Docs/IMAGE/슬라이드18.PNG)
 ![슬라이드이미지](./Docs/IMAGE/슬라이드19.PNG)
 
-# 수상
+## 수상
 제 4회 국민대학교 두리톤 장려상 수상
 ![사진](./Docs/수상사진.jpg)
